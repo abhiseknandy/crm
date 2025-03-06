@@ -208,11 +208,6 @@ We are open to the NextCRM community contributions. Every contribution is welcom
 
 - [Open an issue](https://github.com/pdovhomilja/nextcrm-app/issues) if you find a bug or have a suggestion for improvements.
 
-### NextCRM Super heroes
-
-<a href="https://github.com/pdovhomilja/nextcrm-app/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pdovhomilja/nextcrm-app" />
-</a>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
